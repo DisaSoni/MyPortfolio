@@ -408,7 +408,7 @@
             
             #resume .resume-row .resume-cols .sp-box {
                 padding: 4px;
-                background-color: lightblue;
+                background-color: lightgray;
                 color: var(--textColor);
                 border-radius: 5px;
                 font-size: 14px;
